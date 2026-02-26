@@ -41,7 +41,7 @@ This journey expands my ability to translate complex spatial and environmental d
 
 | Day | Date | Focus | Tasks Completed | Hours | Project Progress | Key Output |
 |-----|------|-------|-----------------|-------|------------------|------------|
-| **1** | Feb 26 | SQL Foundations + Python MOOC 1-2 | SQL Modules 1-3 (SELECT/JOINs), coastal climate DB, Python variables/loops | - | Project 1: Data imported | SQL scripts + cleaned CSVs |
+| **1** | Feb 26 | Python MOOC 1-2 + Coastal Climate DB Setup | Python MOOC 1-2 (variables/loops), coastal climate DB imported + initial SQL queries | - | Project 1: Data imported | SQL scripts + cleaned CSVs |
 | **2** | Feb 27 | Excel ETL + Python MOOC 3-4 | Power Query cleaning, pivot tables, sea-level projections, Python functions/files | - | Project 1: Excel workbook | Excel vulnerability analysis |
 | **3** | Feb 28 | Tableau Sprint + Python MOOC 5-6 | Tableau joins/filters, lighthouse dashboard prototype, Python strings/sets | - | **Project 1** → **Tableau** | Live dashboard prototype |
 | **4** | Feb 29 | Project 1 Polish + Python MOOC 7-8 | Finalize Project 1 dashboard, Python dicts/debugging | - | **Project 1 COMPLETE** | Published dashboard + summary |
