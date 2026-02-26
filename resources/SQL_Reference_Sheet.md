@@ -1,14 +1,12 @@
-# SQL Reference Sheet for Beginners  
-*(Adapted for Codecademy’s Learn SQL course)*  
+# SQL Reference Sheet for Beginners
+*(Adapted for freeCodeCamp’s 4-hour SQL course)*
 
-A quick guide to help you understand the basic structure, syntax, and relationships used when working with **SQL** and **relational databases**.
-
----
+A quick guide to help you understand the basic structure, syntax, and relationships used when working with SQL and relational databases.
 
 ## Understanding Databases
 
-A **database** is an organized collection of related data stored in tables.  
-**SQL (Structured Query Language)** is used to **create**, **read**, **update**, and **delete** data—often summarized as **CRUD** operations.
+A database is an organized collection of related data stored in tables.  
+SQL (Structured Query Language) is used to create, read, update, and delete data—often summarized as CRUD operations.
 
 ---
 
@@ -98,9 +96,9 @@ A **database** is an organized collection of related data stored in tables.
 - Use **UPPERCASE** for SQL keywords and **lowercase** for names.
 - The asterisk `*` returns all columns, but it’s better to specify only what you need.
 - Be careful with `ALTER TABLE` and `DELETE` — they permanently change data.
-- Practice writing and testing small queries often.  
 
 ---
 
-### Disclaimer  
-This reference sheet is for **educational purposes only**, adapted from materials in **Codecademy’s Learn SQL** course.
+#### Disclaimer
+
+This reference sheet is for educational purposes only, adapted from materials in freeCodeCamp's 4-hour SQL course.
