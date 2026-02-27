@@ -20,12 +20,12 @@ This journey expands my ability to translate complex spatial and environmental d
 
 ## Progress Tracking Dashboard
 
-**Duration:** 10 consecutive days (Feb 26 – Mar 7, 2026)  
+**Duration:** 10 consecutive days (Feb 27 – Mar 7, 2026)  
 **Pace:** 6–9 hrs/day (~70 hrs total)  
 **Goal:** Build production‑ready data analytics skills (SQL → Excel → Tableau → Python) and complete 3 portfolio projects on heritage, coastal, and urban themes.
 
-**Current Status:** Bootcamp starting (Feb 26, 2026)  
-**Total Hours:** 0/70  
+**Current Status:** Bootcamp starting (Feb 27, 2026)  
+**Total Hours:** 5/70  
 **Projects Completed:** 0/3  
 
 ## Skills Acquired
@@ -41,8 +41,8 @@ This journey expands my ability to translate complex spatial and environmental d
 
 | Day | Date | Focus | Tasks Completed | Hours | Project Progress | Key Output |
 |-----|------|-------|-----------------|-------|------------------|------------|
-| **1** | Feb 27 | Python MOOC 1-2 + Coastal Climate DB Setup | Python MOOC 1-2 (variables/loops), coastal climate DB imported + initial SQL queries | - | Project 1: Data imported | SQL scripts + cleaned CSVs |
-| **2** | Feb 28 | Excel ETL + Python MOOC 3-4 | Power Query cleaning, pivot tables, sea-level projections, Python functions/files | - | Project 1: Excel workbook | Excel vulnerability analysis |
+| **1** | Feb 27 | Python MOOC 1–2 + Excel Decision Matrix | Python fundamentals (variables, loops); build Excel decision matrix for dataset evaluation; clean coastal climate CSVs and validate data types | 7 hrs | Project 1: Cleaned datasets ready for import | Cleaned CSVs & Excel decision matrix |
+| **2** | Feb 28 | Python MOOC 3–4 + SQL Scripting | Learn Python functions and file handling; set up coastal climate database; import cleaned CSVs; execute initial SQL queries and schema validation | | Project 1: Data successfully imported | SQL scripts + initial query results |
 | **3** | Feb 29 | Tableau Sprint + Python MOOC 5-6 | Tableau joins/filters, lighthouse dashboard prototype, Python strings/sets | - | **Project 1** → **Tableau** | Live dashboard prototype |
 | **4** | Mar 1 | Project 1 Polish + Python MOOC 7-8 | Finalize Project 1 dashboard, Python dicts/debugging | - | **Project 1 COMPLETE** | Published dashboard + summary |
 | **5** | Mar 2 | Tableau Advanced + Python MOOC 9-10 | Seawall calculated fields, Python methods/objects | - | **Project 2** → **Tableau** | Trail connectivity dashboard |
