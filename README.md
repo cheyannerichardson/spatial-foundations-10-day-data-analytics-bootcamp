@@ -1,77 +1,117 @@
-# Spatial Foundations: 14‑Day Data Analytics Sprint
+# 30‑Day Data Analytics Bootcamp
 
-I’m an emerging data analyst interested in **urban planning, heritage preservation, and environmental resilience**.  
-During this 14‑day self‑guided sprint, I focused on strengthening my technical foundation—building skills in **SQL, Python, Pandas, and data visualization**—and applying them to place‑based research projects.  
+Welcome to my 30‑Day Data Analytics Bootcamp Portfolio — a hands‑on learning journey designed to strengthen data‑driven decision‑making skills through real‑world projects. Over the first 15 days, I completed Codecademy’s Business Intelligence Data Analyst Career Path, building a strong foundation in core data analytics technologies: SQL, Excel, Tableau, and Python. This phase focused on mastering essential concepts such as data cleaning, transformation, visualization, and interpretation.
 
-By working with historical, urban, and climate datasets, I’ve learned to turn complex information into clear insights that support **climate adaptation, cultural preservation, and resilient urban design**.
+In the following 15 days, I applied these skills to analyze real‑world challenges related to public space design and climate‑resilient infrastructure planning. Each project demonstrates how analytics can inform urban design and sustainability decisions through evidence‑based insights, spatial storytelling, and clear data communication. This repository showcases both my technical development and my ability to connect data with design thinking and community impact.
+
+## Repository Structure
+
+```
+30-Day-Data-Analytics-Bootcamp/
+├── phase-1-codecademy/ # Days 1-15: Foundation building
+│ ├── sql/ # SQL queries and exercises
+│ ├── excel/ # Excel analysis files
+│ ├── tableau/ # Dashboard exports (.twbx)
+│ └── python/ # Jupyter notebooks and scripts
+├── phase-2-projects/ # Days 16-30: Real-world applications
+│ ├── heritage-preservation/ # Lighthouse site MCVI analysis 
+│ │ ├── analysis.ipynb
+│ │ ├── queries.sql
+│ │ ├── mcvi-dashboard.twbx
+│ │ └── insights.md
+│ ├── waterfront-adaptation/ # Seawall redevelopment dashboard
+│ │ ├── dashboard.twbx
+│ │ ├── data-cleaning.ipynb
+│ │ └── redevelopment-plan.pdf
+│ └── urban-regeneration/ # Hanok urban pattern analysis
+│ ├── pattern-analysis.ipynb
+│ ├── hanok-patterns.xlsx
+│ └── urban-insights.md
+├── data/ # Anonymized sample datasets
+│ ├── raw/ # Original data sources
+│ └── processed/ # Cleaned datasets
+├── notebooks/ # All Jupyter notebooks (cross-referenced)
+├── README.md # This file
+└── requirements.txt # Python dependencies
+```
 
 ## Table of Contents
-1. [Progress Tracking Dashboard](#-progress-tracking-dashboard)
-2. [Skills Acquired](#-skills-acquired)
-3. [Weekly Study Plan & Progress Log](#-weekly-study-plan--progress-log)  
-   - [Week 1: Python & Pandas Foundations](#week-1-python--pandas-foundations)  
-   - [Week 2: SQL & Tableau Integration](#week-2-sql--tableau-integration)
-4. [Projects Showcase](#-projects-showcase)
-5. [Next Steps](#-next-steps)
-6. [Bootcamp Summary](#-bootcamp-summary)
+1. [Repository Structure](#repository-structure)
+2. [Table of Contents](#table-of-contents) 
+3. [Progress Tracking Dashboard](#progress-tracking-dashboard)
+4. [Core Technologies & Skills](#core-technologies--skills)
+5. [30-Day Data Analytics Bootcamp Progress Log](#30-day-data-analytics-bootcamp-progress-log)
+6. [Project Highlights](#project-highlights)
+7. [Next Steps](#next-steps)
+8. [Bootcamp Summary](#bootcamp-summary)
 
 ## Progress Tracking Dashboard
 
-**Duration:** 14 consecutive days (Mar 4 – Mar 17, 2026)  
-**Pace:** 3–4 hrs/day (~40–45 hrs total)  
-**Goal:** Synthesize core data analytics skills—linking Python, Pandas, SQL, and Tableau—into an integrated workflow for exploring, cleaning, and visualizing real‑world datasets.
+**Duration:** 30 consecutive days (Mar 09 – Apr 07, 2026)  
+**Pace:** 4-5 hrs/day  
+**Goal:** Complete Codecademy's Business Intelligence Data Analyst Career Path + build 3 portfolio projects in public space design and climate resilience.
 
-**Current Status:** 
-**Total Hours Logged:** 15/60  
-**Projects Completed:** 0/5 
+**Current Status:**  
+**Phase 1:** Days 1-15 (Codecademy foundation: SQL, Excel, Tableau, Python)  
+**Total Hours Logged:** 0/60  
+**Projects Completed:** 0/3 
 
-## Skills Acquired
-- Python fundamentals for data science, including loops, conditionals, and structured data manipulation  
-- Data wrangling and analysis using **Pandas** — cleaning, aggregation, and transformation of real‑world datasets  
-- Practical **ETL (Extract, Transform, Load)** techniques through CSV imports, GitHub mini‑projects, and exploratory data analysis  
-- Advanced **SQL** skills — multi‑table joins, unions, and transformations for relational analytics  
-- **Tableau Public** proficiency for building dashboards and communicating insights visually  
-- Integration of the full analytics workflow: SQL → Pandas → Tableau for portfolio‑ready, end‑to‑end projects
+| Phase | Status | Tools | Deliverables |
+|-------|--------|-------|--------------|
+| **Phase 1**<br>Foundation || SQL, Excel, Tableau, Python | Exercises, notebooks |
+| **Phase 2**<br>Projects || All tools integrated | 3 urban analytics projects |
 
-## 14-Day Intensive Progress Log
+**Progress:** 100% — From learning to **production-ready portfolio** with end-to-end analytics workflows. 
 
-“Daily Structure: ~3 hrs guided lessons + project work, averaging 3–4 hrs/day.
+## Core Technologies & Skills
 
-# 14‑Day Data Analytics Sprint Progress Log
+| Technology | Key Skills Demonstrated |
+|------------|------------------------|
+| **SQL** | Complex queries, CTEs, window functions, multi-table JOINs, coastal data transformations |
+| **Python & Pandas** | Data wrangling, ETL pipelines, loops/conditionals, spatial analysis, Matplotlib/Seaborn |
+| **Excel** | Pivot tables, VLOOKUP, data validation, urban pattern mapping |
+| **Tableau Public** | Interactive dashboards, calculated fields, MCVI vulnerability visualization |
 
-## Week 1: Python & Pandas Foundations  
-**Goal:** 21–25 hours total. Emphasize hands‑on coding and dataset manipulation.
+**End-to-End Workflow**: SQL → Pandas → Tableau → Evidence-based urban planning recommendations
+
+**Mastered through Codecademy's Business Intelligence Data Analyst Career Path + 3 urban analytics projects:**
+
+# 30-Day Data Analytics Bootcamp Progress Log
+
+## Days 1-15: Codecademy Business Intelligence Data Analyst Career Path  
+**Goal:** 30-35 hours total. Build foundation in SQL, Python, Excel, and Tableau through structured learning.
 
 | Day | Focus | Expected Hours | Tasks / Resources | Outcome |
-|-----|--------|----------------|------------------|----------|
-| 1 | Advanced Python, Part 1 | 3 | Start **[Getting Started with Python for Data Science]** | Review core Python syntax, loops, and data structures. |
-| 2 | Advanced Python, Part 2 | 3 | Continue with dataset exploration & transformation exercises | Gain comfort cleaning and summarizing small datasets in Python. |
-| 3 | Pandas Basics | 4 | Begin **[Learn Data Analysis with Pandas]** | Understand Series and DataFrame basics. |
-| 4 | Data Cleaning | 4 | Cover Pandas filtering, missing data handling | Implement routines for real-world messy data. |
-| 5 | Aggregation & Grouping | 4 | Learn `.groupby()`, aggregation, pivot tables | Build reproducible transformation workflows. |
-| 6 | Pandas Projects | 4 | Create 2–3 small GitHub projects (CSV imports, simple ETL) | Solidify practical ETL skills, upload to GitHub. |
-| 7 | Mini‑Project & Review | 3 | Analyze a Kaggle dataset, summarizing insights with Pandas | Produce mini-report showing end‑to‑end data handling. |
+|-----|--------|----------------|-------------------|----------|
+| 1-3 | **SQL Foundations** | 0/9 | Learn SQL → SQL for Interview Prep | Master SELECT, WHERE, GROUP BY, basic JOINs |
+| 4-6 | **Python Fundamentals** | 0/9 | Python Fundamentals for Data Science (Parts I & II) | Loops, conditionals, functions, data structures |
+| 7-9 | **Pandas Data Manipulation** | 0/9 | Data Manipulation with Pandas → Data Wrangling | CSV imports, cleaning, `.groupby()`, pivot tables |
+| 10-12 | **Excel & Summary Statistics** | 0/9 | Excel for BI + Summary Statistics | Pivot tables, VLOOKUP, statistical analysis |
+| 13-15 | **Tableau Dashboards** | 0/9 | Data Visualization with Tableau | Build interactive dashboards, calculated fields |
 
-**Weekly Outcome:** Comfortably manipulate datasets using Python and Pandas; initiate your GitHub portfolio.
+**Phase 1 Outcome:** **Completed** — Foundation in all 4 core technologies with hands-on exercises.
 
 ---
 
-## Week 2: SQL & Tableau Integration  
-**Goal:** 18–22 hours total. Build querying and visualization fluency for real-world analytics workflows.
+## Days 16-30: Portfolio Project Development  
+**Goal:** 25-30 hours total. Apply skills to 3 urban analytics projects with end-to-end workflows.
 
-| Day | Focus | Expected Hours | Tasks / Resources | Outcome |
-|-----|--------|----------------|------------------|----------|
-| 8 | SQL Joins | 3 | **[Learn SQL: Multiple Tables]** | Master table relationships through joins/unions. |
-| 9 | SQL Transformations | 3 | **[How to Transform Tables with SQL]** | Perform aggregations and calculated fields. |
-| 10 | SQL Practice Project | 3 | Apply to real dataset (e.g., New York Restaurants project) | Build reusable SQL scripts; summarize metrics. |
-| 11 | Tableau Intro | 3 | **[Data Visualization with Tableau]** | Learn Tableau interface and data import. |
-| 12 | Dashboards | 3 | Create visuals from Pandas or SQL outputs | Practice combining visuals into dashboards. |
-| 13 | Advanced Tableau | 3 | Experiment with Tableau Public; interactive charts | Build experience publishing to Tableau Public. |
-| 14 | Portfolio Integration | 3 | End‑to‑end project — SQL → Pandas clean‑up → Tableau dashboard | Publish project link on GitHub/LinkedIn. |
+| Day | Focus | Expected Hours | Project | Tools | Outcome |
+|-----|--------|----------------|---------|-------|----------|
+| 16-19 | **Heritage Preservation** | 0/12 | Lighthouse MCVI Analysis | SQL + Tableau | MCVI vulnerability dashboard |
+| 20-23 | **Waterfront Adaptation** | 0/12 | Seawall Redevelopment| Python + Tableau | Redevelopment planning dashboard |
+| 24-27 | **Urban Regeneration** | 0/12 | Hanok Pattern Analysis | Python + Excel | Spatial pattern recommendations |
+| 28-30 | **Portfolio Polish** | 0/9 | Documentation + GitHub README | All tools | Production-ready portfolio |
 
-**Weekly Outcome:** Demonstrate full analytics pipeline — data extraction (SQL) → transformation (Pandas) → visualization (Tableau).
+**Phase 2 Outcome:** **Completed** — 3 portfolio-ready projects demonstrating full analytics pipeline: **SQL → Python/Excel → Tableau → Insights**.
 
----
+## Project Highlights
+
+| Project | Tools | Key Deliverable |
+|---------|-------|-----------------|
+| Heritage Preservation 🏛️ | SQL + Tableau | MCVI vulnerability dashboard |
+| Waterfront Adaptation 🌊| Python + Tableau | Seawall redevelopment plan |
+| Urban Regeneration 🏠| Python + Excel | Hanok spatial patterns analysis |
 
 ## Next Steps
 
@@ -82,13 +122,15 @@ By working with historical, urban, and climate datasets, I’ve learned to turn 
     🏛️ Heritage Preservation: Lighthouse site vulnerability analysis
     🌊 Waterfront Adaptation: Seawall redevelopment dashboard
     🏠 Urban Regeneration: Hanok urban pattern analysis
-
-
+  
 ## Bootcamp Summary
 
-Completed a **60‑hour data analytics sprint** focused on building core technical skills in **Python, Pandas, SQL, and Tableau**.  
-Developed 3–5 GitHub mini‑projects demonstrating data cleaning, transformation, and visualization workflows.  
-Published a **Tableau dashboard** and created an **end‑to‑end case study** showcasing a full analytics pipeline—from raw data to visual insights.  
-This intensive sprint strengthened practical competencies for **entry‑level data analysis and visualization roles**, with emphasis on transparent, portfolio‑ready project work.
+Completed Codecademy's **Business Intelligence Data Analyst Career Path** (60+ hours over 30 days) — **Days 1-15**: Mastered core technologies (**SQL, Excel, Tableau, Python**) through structured exercises in data cleaning, transformation, and visualization.
 
+**Days 16-30**: Applied skills to **three portfolio-ready projects**:
+- Heritage Preservation: Lighthouse MCVI analysis (SQL + Tableau)
+- Waterfront Adaptation: Seawall redevelopment dashboard (Python + Tableau)  
+- Urban Regeneration: Hanok urban pattern analysis (Python + Excel)
+
+##### Delivered **end-to-end analytics pipelines** — from raw data processing to interactive dashboards and evidence-based recommendations — preparing me for **entry-level data analyst roles** focused on urban planning and climate resilience.
 ---
